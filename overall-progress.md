@@ -4,23 +4,54 @@
 
 - **Start Date:** August 18, 2025
 - **Current Week:** 1 of 20
-  See what I put for protein, I think I want a similar visualization here but for each week where I hit the required goals I get a check, otherwise some kind of negative indicator like a sad face.
 
 ## Current Week Status
 
-- **Current Calorie Average:** 1850
-  Add a color code. Green if we're > 50 below 1900, yellow if we're + or - 50 from 1900, red if we're > 50 above 1900.
-- **Days > 190g protein**
-  Maybe add a visualazation, like imagine a row of cells, one for each day of the week, with a check in it if I consumed > 190g of protein and empty if not. somehow have an indication of the day of the week we are on
-- **Days > 30g of fier:** 30g
-  Do the same thing as the protein visualization
-- **Current Steps Average:** 5000
-  Add a color code, same as calories but plus or minus 500 steps instead of 50
-- **Went to bed on time:**
-  Same as the protein visualization, but for the sleep.
-- **Woke up on time**
-  Same as the went to bed visualization, but for the wake up.
-- **Number of Runs** 2/3
-  Progress bar here like current week?
-- **Number of Lifts** 3/3
-  Progress bar here like current week?
+### Week 1 Behavioral Compliance
+
+**Calorie Average:** 1869 ✅  
+*Under 1900 target. Keep it up.*
+
+**Steps Average:** 6356 ✅  
+*Above 5000 target. Solid.*
+
+**Protein (190g):** ⬜⬜⬜⬜⬜⬜⬜  
+Mon: ✅ 195g | Tue: ❌ 165g | Wed: ❌ 165g | Thu: ✅ 190g | Fri: ❌ 165g | Sat: ❌ 185g | Sun: -
+
+**Fiber (30g):** ⬜⬜⬜⬜⬜⬜⬜  
+Mon: ✅ 32g | Tue: ✅ 30g | Wed: ❌ 15g | Thu: ✅ 30g | Fri: ✅ 30g | Sat: ✅ 32g | Sun: -
+
+**Runs:** 2/3 ❌  
+*You need 1 more run by Sunday or you fail this week's running goal.*
+
+**Lifts:** 3/3 ✅  
+*Done. Good work.*
+
+**Sleep Schedule:** Not tracked yet  
+*Start tracking your 10pm bedtime and 6:30am wake time.*
+
+---
+
+## Reality Check
+
+You're 6 days into Week 1. Here's where you stand:
+
+- **Calories:** On track
+- **Steps:** On track  
+- **Protein:** Only hitting 2/6 days (33%). This needs to improve.
+- **Fiber:** Hitting 5/6 days (83%). Good, except Wednesday.
+- **Training:** Lifts done, but still need 1 run
+
+**Bottom line:** You have 1 day left to get that final run in. No excuses - you can run when tired. It's only 20 weeks. Stay consistent and you earn rest days.
+
+---
+
+## 20-Week Progression Targets
+
+### Running (Minutes per session)
+Week 1: 15:00 | Week 5: 17:52 | Week 10: 22:06 | Week 15: 27:21 | Week 20: 30:00
+
+### Lifting Volume Multiplier
+Week 1: 1.00x | Week 5: 1.08x | Week 10: 1.20x | Week 15: 1.32x | Week 20: 1.46x
+
+Remember: Naps are allowed if you need them. Just get the work done.
