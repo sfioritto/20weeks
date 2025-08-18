@@ -1,44 +1,37 @@
 # Week 1 of 20
 
-## Current Status
+6 days into Week 1.
 
-You're 6 days into Week 1. Here's where you stand:
+## Required Goals
+These determine if you pass the week.
 
-### Running: 2/3
-You need **1 more run** by Sunday or you fail this week's running goal. It's only 15 minutes. No excuses - you can run when tired.
+### Runs: 2/3
+Need 1 more run by Sunday to hit the weekly goal.
 
-### Lifting: 3/3 - COMPLETE
-Done. Good work. You've earned your rest day if you need it.
+### Lifts: 3/3
+Complete.
 
-### Calories: Averaging 1869 - ON TRACK
-You're **31 calories under** your 1900 target. Solid control. Keep it up.
+### Calories: avg 1869
+31 calories under target. Target: 1900 max.
 
-### Steps: Averaging 6356 - ON TRACK
-You're **1356 steps above** your 5000 minimum. Good activity level.
+### Steps: avg 6356  
+1356 steps above minimum. Target: 5000 min.
 
-### Protein: 2/6 days hit - NEEDS WORK
-Only hitting **33% of days** at 190g+. This needs work:
-- Mon: Hit 195g
-- Tue: Miss 165g (25g short)
-- Wed: Miss 165g (25g short)
-- Thu: Hit 190g
-- Fri: Miss 165g (25g short)
-- Sat: Miss 185g (5g short)
+### Sleep: Not tracked
+No sleep data recorded yet. Target: 6/7 nights on schedule (10pm bed, 6:30am wake).
 
-**Fix this:** You're leaving gains on the table. Add a protein shake or more chicken.
+**Week status:** Behind - need final run and sleep tracking to pass.
 
-### Fiber: 5/6 days hit - GOOD
-Hitting **83% of days** at 30g+. Good except Wednesday (15g). Stay consistent.
+## Bonus Goals
 
-### Sleep Schedule: Not tracked
-Start tracking your 10pm bedtime and 6:30am wake time. Sleep is when you recover.
+### Protein: 2/7 days (190g)
+Mon 195g, Tue 165g, Wed 165g, Thu 190g, Fri 165g, Sat 185g.
+Consider adding a protein shake to hit 190g more consistently.
 
----
+### Fiber: 5/6 days (30g)
+Good consistency except Wednesday (15g).
 
-## Reality Check
+## This Week's Focus
 
-**Bottom line:** You have 1 day left to get that final run in. If you don't run Sunday, you fail Week 1. 
-
-It's only 20 weeks. Stay consistent and you earn rest days. Naps are allowed.
-
-Remember: You committed to this. Don't negotiate with yourself.
+1. Complete your third run by end of Sunday (15 minutes)
+2. Start tracking sleep tonight

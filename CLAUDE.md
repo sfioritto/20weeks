@@ -24,23 +24,56 @@ I read log files from the `logs/` directory named like `8-18-2025.md` (week star
 
 ### Updating the Dashboard (index.md)
 
-When updating progress, regenerate `index.md` with:
+#### Writing Style Guide
+- Direct and factual, but not aggressive or shouty
+- Use formatting sparingly for clarity, not emphasis
+- Let the numbers speak for themselves
+- Keep advice brief and actionable
+- No emojis, no excessive punctuation, no all-caps for status
 
-1. **Current week number** out of 20
-2. **Goal-by-goal status** in plain English (NO EMOJIS):
-   - Runs: X/3 (with reminder if behind)
-   - Lifts: X/3 (celebrate if complete)
-   - Calories: Average with commentary
-   - Steps: Average with encouragement/warning
-   - Protein: Days hit/missed with specifics
-   - Fiber: Days hit/missed
-   - Sleep: Tracking status
-3. **Reality checks** - direct, no-nonsense reminders:
-   - Days left to complete goals
-   - Whether on track for success
-   - Reminders about the 20-week commitment
-4. **Tone:** Direct, factual, no fluff. If behind, say so. If failing, be clear
-5. **Format:** Plain text and markdown only - NO EMOJIS in any output
+#### Structure Template
+
+```markdown
+# Week X of 20
+
+[Brief status: "6 days into Week 1" or "Week 1 complete"]
+
+## Required Goals
+These determine if you pass the week.
+
+### Runs: X/3
+[Simple status. If behind, state what's needed by when]
+
+### Lifts: X/3
+[Current count. If complete, just say "Complete."]
+
+### Calories: avg XXXX
+[Under/over by X calories. Target: 1900 max]
+
+### Steps: avg XXXX
+[Above/below by X steps. Target: 5000 min]
+
+### Sleep: X/7 nights
+[Tracking status or compliance rate]
+
+**Week status:** [On track/Behind/Off target] - [brief reason]
+
+## Bonus Goals
+
+### Protein: X/7 days (190g)
+[List daily only if needed for clarity]
+
+### Fiber: X/7 days (30g)
+[Simple status]
+
+## This Week's Focus
+[One or two key actions needed. Facts, not lectures]
+```
+
+#### Status Indicators
+- Use: "On track", "Behind", "Off target", "Complete"
+- Avoid: ALL CAPS, excessive punctuation, dramatic language
+- State consequences matter-of-factly: "Need 1 more run by Sunday" not "MUST RUN OR FAIL!"
 
 ### Commands I Understand
 
