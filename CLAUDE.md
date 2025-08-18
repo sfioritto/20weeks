@@ -14,21 +14,20 @@
 
 ### Weekly Log Files
 
-I read files named like `8-18-2025-daily-log.md` (week starting date)
+I read log files from the `logs/` directory named like `8-18-2025.md` (week starting date)
 
 ### Data Processing
 
-1. Parse daily entries for all metrics
+1. Parse daily entries from logs directory for all metrics
 2. Calculate weekly averages
-3. Update `data.json` with current week data
-4. Update `index.md` with current progress
+3. Update `index.md` with current progress (no emojis)
 
 ### Updating the Dashboard (index.md)
 
 When updating progress, regenerate `index.md` with:
 
 1. **Current week number** out of 20
-2. **Goal-by-goal status** in plain English:
+2. **Goal-by-goal status** in plain English (NO EMOJIS):
    - Runs: X/3 (with reminder if behind)
    - Lifts: X/3 (celebrate if complete)
    - Calories: Average with commentary
@@ -41,10 +40,11 @@ When updating progress, regenerate `index.md` with:
    - Whether on track for success
    - Reminders about the 20-week commitment
 4. **Tone:** Direct, factual, no fluff. If behind, say so. If failing, be clear
+5. **Format:** Plain text and markdown only - NO EMOJIS in any output
 
 ### Commands I Understand
 
-**Logging:**
+**Logging:** (I write these to logs/[date].md)
 
 - "Ran [time] minutes"
 - "Did [exercise] [sets]x[reps] @ [weight]"

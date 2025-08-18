@@ -19,15 +19,15 @@
     <script>
         async function loadContent() {
             const content = document.getElementById('content');
-            
+
             try {
                 // Fetch the markdown file
                 const response = await fetch('index.md');
                 const markdown = await response.text();
-                
+
                 // Parse markdown to HTML using marked library
                 const html = marked.parse(markdown);
-                
+
                 // Display the parsed content
                 content.innerHTML = html;
             } catch (error) {
@@ -41,9 +41,6 @@
 
         // Load content when page loads
         window.addEventListener('load', loadContent);
-        
-        // Auto-refresh every 30 seconds
-        setInterval(loadContent, 30000);
     </script>
 </body>
 </html>
