@@ -59,7 +59,7 @@ These determine if you pass the week.
 
 ### Steps: avg XXXX
 
-[Above/below by X steps. Target: 5000 min]
+[Above/below by X steps. Target: 5000 each day, but it's the average that matters, low one day is nbd. If below, calculate: "Need X extra steps per day for remaining Y days to hit 5000 average"]
 
 **Week status:** [On track/Behind/Off target] - [brief reason]
 
@@ -75,7 +75,7 @@ These determine if you pass the week.
 
 ### Bedtime: X/7 nights
 
-[Tracking status - in bed by 10:00pm, lights out by 10:30pm]
+[Tracking status - in bed by 10:00pm, lights out by 10:30pm, wake at 6:30am. Note if woke up late even if bedtime was met]
 
 ## This Week's Focus
 
