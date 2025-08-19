@@ -1,37 +1,45 @@
 # Week 1 of 20
 
-6 days into Week 1.
+You used your rest day on Monday, so you'll need to get either a run or lift each day to avoid doubling up. Current status: 1 run done on Tuesday, 0 lifts. Your calories are at 1900 and steps at 5112 for Monday - both on target. Keep hitting those daily minimums while getting one workout per day. I notice you logged your sleep for Monday night - good. Focus on getting a lift done today and keeping the momentum going.
+
+2 days into Week 1
 
 ## Required Goals
+
 These determine if you pass the week.
 
-### Runs: 2/3
-Need 1 more run by Sunday to hit the weekly goal.
+### Runs: 1/3
 
-### Lifts: 3/3
-Complete.
+Need 2 more runs by Sunday. Tuesday's 15-minute run complete.
 
-### Calories: avg 1869
-31 calories under target. Target: 1900 max.
+### Lifts: 0/3
 
-### Steps: avg 6356  
-1356 steps above minimum. Target: 5000 min.
+Need 3 lifting sessions by Sunday.
 
-### Sleep: Not tracked
-No sleep data recorded yet. Target: 6/7 nights on schedule (10pm bed, 6:30am wake).
+### Calories: avg 1900
 
-**Week status:** Behind - need final run and sleep tracking to pass.
+Only Monday logged (1900). Need daily tracking.
+
+### Steps: avg 5112
+
+Only Monday logged (5112). Above target for that day.
+
+**Week status:** Behind - Missing lifts and incomplete daily tracking
 
 ## Bonus Goals
 
-### Protein: 2/7 days (190g)
-Mon 195g, Tue 165g, Wed 165g, Thu 190g, Fri 165g, Sat 185g.
-Consider adding a protein shake to hit 190g more consistently.
+### Protein: 0/7 days (190g)
 
-### Fiber: 5/6 days (30g)
-Good consistency except Wednesday (15g).
+Monday: 100g (90g short)
+
+### Fiber: 0/7 days (30g)
+
+Monday: 10g (20g short)
+
+### Bedtime: 1/7 nights
+
+Monday: Went to bed at 10:30pm (on target)
 
 ## This Week's Focus
 
-1. Complete your third run by end of Sunday (15 minutes)
-2. Start tracking sleep tonight
+Start logging all daily metrics. Schedule your 3 lifting sessions. Get 2 more runs in before Sunday.

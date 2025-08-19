@@ -4,15 +4,16 @@
 - Average 5000 steps per day (not including running)
 - Run 3 days per week
 - Lift 3 days per week
-- Sleep schedule: 6 out of 7 days per week
-  - 10pm to bed,
-  - Lights out 10:30,
-  - Up at 6:30
+
+**Note on workouts:** The goal is to complete the assigned time/progression, but if you're exhausted, doing the minimum still counts. For lifts, even one set of each exercise counts as a session. For runs, completing the target time matters more than pace. The priority is building the habit and consistency.
 
 ## Bonus:
 
 - Average 30g fiber per day
 - 190g protein per day
+- Bedtime: 6 out of 7 days per week
+  - In bed by 10:00pm
+  - Lights out by 10:30pm
 
 ## Progressive Training Goals:
 
