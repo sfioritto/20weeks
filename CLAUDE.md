@@ -14,7 +14,11 @@
 
 ### Weekly Log Files
 
-I read log files from the `logs/` directory named like `8-18-2025.md` (week starting date)
+Log files are organized by week in the `logs/` directory:
+- One file per week, named after the Monday (e.g., `8-18-2025.md` for the week starting Monday, August 18, 2025)
+- Each file contains daily entries for that entire week (Monday through Sunday)
+- Entries are added throughout the week as activities are completed
+- Sleep may be logged later than other metrics (after going to bed)
 
 ### Data Processing
 

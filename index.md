@@ -1,8 +1,8 @@
 # Week 1 of 20
 
-You've done 1 run on Tuesday, no lifts yet. Monday's calories were 1900 (on target) but steps were only 3741 - that's 1259 below the 5000 target. You'll need about 6259 steps today and the rest of the week to get back to a 5000 average. With your rest day used Monday, you need a workout each remaining day. Also need to log today's food and steps.
+You've got 1 run done and no lifts yet. Calories averaging 1891 (good), but steps averaging 4871 - need 5129 steps per day for the remaining 5 days to hit the 5000 average. Used your rest day Monday, so you'll need a workout each day to avoid doubling up. Need to log today's metrics still.
 
-2 days into Week 1
+3 days into Week 1
 
 ## Required Goals
 
@@ -10,31 +10,31 @@ These determine if you pass the week.
 
 ### Runs: 1/3
 
-Need 2 more runs by Sunday. Tuesday's 15-minute run complete.
+Need 2 more runs by Sunday.
 
 ### Lifts: 0/3
 
 Need 3 lifting sessions by Sunday.
 
-### Calories: avg 1900
+### Calories: avg 1891
 
-Only Monday logged (1900). On target but need daily tracking.
+Under by 9 calories. Target: 1900 max
 
-### Steps: avg 3741
+### Steps: avg 4871
 
-Below by 1259 steps. Need 6259 steps per day for remaining 6 days to hit 5000 average.
+Below by 129 steps. Need 5129 extra steps per day for remaining 5 days to hit 5000 average
 
-**Week status:** Behind - Low steps and missing lifts
+**Week status:** Behind - No lifts yet and steps slightly below target
 
 ## Bonus Goals
 
 ### Protein: 0/7 days (190g)
 
-Monday: 100g
+Monday: 100g, Tuesday: 188g
 
 ### Fiber: 0/7 days (30g)
 
-Monday: 10g
+Monday: 10g, Tuesday: 27g
 
 ### Bedtime: 0/7 nights
 
@@ -42,4 +42,4 @@ Monday: Went to bed at 10:30pm (30 min late), woke at 7:30am (1 hour late)
 
 ## This Week's Focus
 
-Get 6259+ steps daily to recover the average. Schedule 3 lifting sessions. Log all daily metrics.
+Get 3 lifts scheduled and completed. Add 130 extra steps daily to recover average.
