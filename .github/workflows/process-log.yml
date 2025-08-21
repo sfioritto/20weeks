@@ -26,17 +26,21 @@ jobs:
       - name: Process log entry with Claude
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TZ: America/Chicago
         run: |
           # Get the message from the event payload
           MESSAGE="${{ github.event.client_payload.message }}"
           
           echo "Processing log entry: $MESSAGE"
+          echo "Current Central Time: $(date)"
           
           # Use Claude CLI to process the log entry
           # Using echo to pipe the prompt to claude via stdin
           echo "I need you to process this log entry: '$MESSAGE'. 
              
-             Based on today's date, add this entry to the appropriate log file in the logs/ directory.
+             IMPORTANT: When determining what day it is, use US Central Time (America/Chicago). The current date/time in Central Time is: $(date '+%A, %B %d, %Y at %I:%M %p %Z').
+             
+             Based on today's date in Central Time, add this entry to the appropriate log file in the logs/ directory.
              The log files are named after Monday's date (e.g., 8-18-2025.md for the week starting Monday, August 18, 2025).
              
              If today's entry already exists in the file, append the new information to it.
@@ -48,11 +52,13 @@ jobs:
       - name: Update dashboard using command file
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TZ: America/Chicago
         run: |
           echo "Updating dashboard with latest data..."
+          echo "Current Central Time: $(date)"
           
-          # Use the existing update-index command - need to cat the file and pipe it
-          cat .claude/commands/update-index.md | claude --print --allowed-tools "Read Write Edit"
+          # Read the command file, strip the frontmatter, and add timezone context
+          (echo "IMPORTANT: When determining what day it is, use US Central Time. The current date/time in Central Time is: $(date '+%A, %B %d, %Y at %I:%M %p %Z')." && echo "" && sed '1,/^---$/d' .claude/commands/update-index.md | sed '1,/^---$/d') | claude --print --allowed-tools "Read Write Edit"
       
       - name: Commit and push changes
         run: |

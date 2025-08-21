@@ -5,6 +5,7 @@
 **Duration:** 20 weeks
 **Focus:** Controllable behaviors only (no weight tracking)
 **Start Date:** Set on first log entry
+**Timezone:** US Central Time (America/Chicago) - When determining "today's date" or the current day of the week, always calculate based on Central Time, not UTC or the system's local time
 
 ## Weekly Behavioral Requirements
 
