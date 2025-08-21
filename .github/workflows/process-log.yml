@@ -30,10 +30,8 @@ jobs:
           echo "Processing log entry: $MESSAGE"
           
           # Use Claude CLI to process the log entry
-          # The --print flag makes it non-interactive
-          # The allowed tools let Claude read/write files
-          claude --print --allowed-tools "Read Write Edit" \
-            "I need you to process this log entry: '$MESSAGE'. 
+          # Using echo to pipe the prompt to claude via stdin
+          echo "I need you to process this log entry: '$MESSAGE'. 
              
              Based on today's date, add this entry to the appropriate log file in the logs/ directory.
              The log files are named after Monday's date (e.g., 8-18-2025.md for the week starting Monday, August 18, 2025).
@@ -42,7 +40,7 @@ jobs:
              If today's entry doesn't exist yet, create it with the appropriate day header.
              
              Use the same format as existing entries in the log files.
-             Just update the log file, don't provide any other output."
+             Just update the log file, don't provide any other output." | claude --print --allowed-tools "Read Write Edit"
       
       - name: Update dashboard using command file
         env:
@@ -50,8 +48,8 @@ jobs:
         run: |
           echo "Updating dashboard with latest data..."
           
-          # Use the existing update-index command
-          claude --print --allowed-tools "Read Write Edit" "@.claude/commands/update-index.md"
+          # Use the existing update-index command - need to cat the file and pipe it
+          cat .claude/commands/update-index.md | claude --print --allowed-tools "Read Write Edit"
       
       - name: Commit and push changes
         run: |
