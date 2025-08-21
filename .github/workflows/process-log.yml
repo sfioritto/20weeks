@@ -1,0 +1,70 @@
+name: Process Log Entry
+
+on:
+  repository_dispatch:
+    types: [log_entry]
+
+jobs:
+  process-log:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+      
+      - name: Install Claude Code CLI
+        run: npm install -g @anthropic-ai/claude-code
+      
+      - name: Process log entry with Claude
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          # Get the message from the event payload
+          MESSAGE="${{ github.event.client_payload.message }}"
+          
+          echo "Processing log entry: $MESSAGE"
+          
+          # Use Claude CLI to process the log entry
+          # The --print flag makes it non-interactive
+          # The allowed tools let Claude read/write files
+          claude --print --allowed-tools "Read Write Edit" \
+            "I need you to process this log entry: '$MESSAGE'. 
+             
+             Based on today's date, add this entry to the appropriate log file in the logs/ directory.
+             The log files are named after Monday's date (e.g., 8-18-2025.md for the week starting Monday, August 18, 2025).
+             
+             If today's entry already exists in the file, append the new information to it.
+             If today's entry doesn't exist yet, create it with the appropriate day header.
+             
+             Use the same format as existing entries in the log files.
+             Just update the log file, don't provide any other output."
+      
+      - name: Update dashboard using command file
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "Updating dashboard with latest data..."
+          
+          # Use the existing update-index command
+          claude --print --allowed-tools "Read Write Edit" "@.claude/commands/update-index.md"
+      
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          
+          # Add all changes
+          git add -A
+          
+          # Commit with the original message
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Update logs and dashboard via chat: ${{ github.event.client_payload.message }}"
+            git push
+          fi

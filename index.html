@@ -42,5 +42,205 @@
         // Load content when page loads
         window.addEventListener('load', loadContent);
     </script>
+
+    <!-- Chat Widget -->
+    <div id="chat-widget" class="fixed bottom-4 right-4 z-50">
+        <!-- Chat Button -->
+        <button id="chat-toggle" class="bg-blue-600 hover:bg-blue-700 text-white rounded-full p-4 shadow-lg transition-all duration-200 hover:scale-110">
+            <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"></path>
+            </svg>
+        </button>
+
+        <!-- Chat Interface -->
+        <div id="chat-interface" class="hidden absolute bottom-20 right-0 bg-white rounded-lg shadow-2xl w-80 sm:w-96 max-h-96 flex flex-col">
+            <!-- Header -->
+            <div class="bg-blue-600 text-white p-4 rounded-t-lg flex justify-between items-center">
+                <h3 class="font-semibold">Log Entry</h3>
+                <button id="chat-close" class="hover:bg-blue-700 rounded p-1">
+                    <svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
+                    </svg>
+                </button>
+            </div>
+
+            <!-- Messages -->
+            <div id="chat-messages" class="flex-1 overflow-y-auto p-4 space-y-2 min-h-[200px]">
+                <div class="text-gray-500 text-sm">
+                    Send a log entry like:
+                    <ul class="mt-2 space-y-1">
+                        <li>• "ran 15 minutes"</li>
+                        <li>• "had 1850 calories, 190g protein"</li>
+                        <li>• "got 5500 steps"</li>
+                        <li>• "did squats 3x8 at 135lbs"</li>
+                    </ul>
+                </div>
+            </div>
+
+            <!-- Input -->
+            <div class="border-t p-4">
+                <div class="flex space-x-2">
+                    <input 
+                        type="text" 
+                        id="chat-input" 
+                        class="flex-1 px-3 py-2 border rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
+                        placeholder="Type your log entry..."
+                        onkeypress="if(event.key==='Enter') sendMessage()"
+                    />
+                    <button 
+                        onclick="sendMessage()" 
+                        id="send-button"
+                        class="bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-lg transition-colors duration-200 disabled:bg-gray-400"
+                    >
+                        Send
+                    </button>
+                </div>
+                <div id="status-message" class="text-xs text-gray-500 mt-2 hidden"></div>
+            </div>
+
+            <!-- Settings -->
+            <div id="settings-panel" class="border-t p-4 bg-gray-50 hidden">
+                <label class="text-sm text-gray-700 block mb-2">GitHub Personal Access Token:</label>
+                <input 
+                    type="password" 
+                    id="github-token" 
+                    class="w-full px-3 py-2 border rounded-lg text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                    placeholder="ghp_..."
+                />
+                <button 
+                    onclick="saveToken()" 
+                    class="mt-2 bg-green-600 hover:bg-green-700 text-white px-3 py-1 rounded text-sm"
+                >
+                    Save Token
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Chat widget functionality
+        const chatToggle = document.getElementById('chat-toggle');
+        const chatInterface = document.getElementById('chat-interface');
+        const chatClose = document.getElementById('chat-close');
+        const chatInput = document.getElementById('chat-input');
+        const chatMessages = document.getElementById('chat-messages');
+        const sendButton = document.getElementById('send-button');
+        const statusMessage = document.getElementById('status-message');
+        
+        // Toggle chat interface
+        chatToggle.addEventListener('click', () => {
+            chatInterface.classList.toggle('hidden');
+            if (!chatInterface.classList.contains('hidden')) {
+                chatInput.focus();
+                checkTokenSetup();
+            }
+        });
+        
+        chatClose.addEventListener('click', () => {
+            chatInterface.classList.add('hidden');
+        });
+        
+        // Check if token is set up
+        function checkTokenSetup() {
+            const token = localStorage.getItem('github_pat');
+            if (!token) {
+                document.getElementById('settings-panel').classList.remove('hidden');
+                addMessage('system', 'Please set up your GitHub Personal Access Token first. You need a token with "repo" scope.');
+            } else {
+                document.getElementById('settings-panel').classList.add('hidden');
+            }
+        }
+        
+        // Save GitHub token
+        function saveToken() {
+            const token = document.getElementById('github-token').value.trim();
+            if (token) {
+                localStorage.setItem('github_pat', token);
+                document.getElementById('settings-panel').classList.add('hidden');
+                document.getElementById('github-token').value = '';
+                addMessage('system', 'Token saved! You can now send log entries.');
+            }
+        }
+        
+        // Add message to chat
+        function addMessage(type, text) {
+            const messageDiv = document.createElement('div');
+            messageDiv.className = type === 'user' 
+                ? 'bg-blue-100 p-2 rounded-lg ml-auto max-w-[80%]' 
+                : type === 'system'
+                ? 'bg-gray-100 p-2 rounded-lg text-sm text-gray-600'
+                : 'bg-red-100 p-2 rounded-lg text-sm text-red-600';
+            messageDiv.textContent = text;
+            chatMessages.appendChild(messageDiv);
+            chatMessages.scrollTop = chatMessages.scrollHeight;
+        }
+        
+        // Send message
+        async function sendMessage() {
+            const message = chatInput.value.trim();
+            if (!message) return;
+            
+            const token = localStorage.getItem('github_pat');
+            if (!token) {
+                checkTokenSetup();
+                return;
+            }
+            
+            // Add user message
+            addMessage('user', message);
+            chatInput.value = '';
+            
+            // Disable input while processing
+            chatInput.disabled = true;
+            sendButton.disabled = true;
+            statusMessage.textContent = 'Processing...';
+            statusMessage.classList.remove('hidden');
+            
+            try {
+                // Send repository dispatch event
+                const response = await fetch('https://api.github.com/repos/seanfioritto/20weeks/dispatches', {
+                    method: 'POST',
+                    headers: {
+                        'Accept': 'application/vnd.github+json',
+                        'Authorization': `token ${token}`,
+                        'X-GitHub-Api-Version': '2022-11-28'
+                    },
+                    body: JSON.stringify({
+                        event_type: 'log_entry',
+                        client_payload: {
+                            message: message
+                        }
+                    })
+                });
+                
+                if (response.status === 204) {
+                    addMessage('system', 'Log entry sent! The page will refresh in 30 seconds to show updates.');
+                    statusMessage.textContent = 'Success! Refreshing in 30s...';
+                    
+                    // Auto-refresh after 30 seconds
+                    setTimeout(() => {
+                        window.location.reload();
+                    }, 30000);
+                } else if (response.status === 404) {
+                    addMessage('error', 'Repository not found. Check your token permissions.');
+                } else if (response.status === 401) {
+                    addMessage('error', 'Invalid token. Please update your GitHub PAT.');
+                    localStorage.removeItem('github_pat');
+                    checkTokenSetup();
+                } else {
+                    const error = await response.text();
+                    addMessage('error', `Error: ${response.status} - ${error}`);
+                }
+            } catch (error) {
+                addMessage('error', `Network error: ${error.message}`);
+            } finally {
+                // Re-enable input
+                chatInput.disabled = false;
+                sendButton.disabled = false;
+                statusMessage.classList.add('hidden');
+                chatInput.focus();
+            }
+        }
+    </script>
 </body>
 </html>
