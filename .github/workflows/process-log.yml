@@ -62,9 +62,12 @@ jobs:
           COMMAND_CONTENT=$(awk '/^---$/{f++;next} f==2{print}' .claude/commands/update-index.md)
           
           # Create the full prompt with timezone context and the command
-          FULL_PROMPT="IMPORTANT: When determining what day it is, use US Central Time. The current date/time in Central Time is: $(date '+%A, %B %d, %Y at %I:%M %p %Z').
-
-$COMMAND_CONTENT"
+          FULL_PROMPT=$(cat <<EOF
+          IMPORTANT: When determining what day it is, use US Central Time. The current date/time in Central Time is: $(date '+%A, %B %d, %Y at %I:%M %p %Z').
+          
+          $COMMAND_CONTENT
+          EOF
+          )
           
           # Send the prompt to Claude
           echo "$FULL_PROMPT" | claude --print --allowed-tools "Read Write Edit"
