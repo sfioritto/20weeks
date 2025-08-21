@@ -4,6 +4,9 @@ on:
   repository_dispatch:
     types: [log_entry]
 
+permissions:
+  contents: write
+
 jobs:
   process-log:
     runs-on: ubuntu-latest
@@ -53,8 +56,8 @@ jobs:
       
       - name: Commit and push changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
           
           # Add all changes
           git add -A
@@ -64,5 +67,5 @@ jobs:
             echo "No changes to commit"
           else
             git commit -m "Update logs and dashboard via chat: ${{ github.event.client_payload.message }}"
-            git push
+            git push origin main
           fi
