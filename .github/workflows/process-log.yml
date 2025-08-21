@@ -57,8 +57,17 @@ jobs:
           echo "Updating dashboard with latest data..."
           echo "Current Central Time: $(date)"
           
-          # Read the command file, strip the frontmatter, and add timezone context
-          (echo "IMPORTANT: When determining what day it is, use US Central Time. The current date/time in Central Time is: $(date '+%A, %B %d, %Y at %I:%M %p %Z')." && echo "" && sed '1,/^---$/d' .claude/commands/update-index.md | sed '1,/^---$/d') | claude --print --allowed-tools "Read Write Edit"
+          # Extract the command content, skipping the YAML frontmatter
+          # The frontmatter is between two --- lines, so we skip everything up to and including the second ---
+          COMMAND_CONTENT=$(awk '/^---$/{f++;next} f==2{print}' .claude/commands/update-index.md)
+          
+          # Create the full prompt with timezone context and the command
+          FULL_PROMPT="IMPORTANT: When determining what day it is, use US Central Time. The current date/time in Central Time is: $(date '+%A, %B %d, %Y at %I:%M %p %Z').
+
+$COMMAND_CONTENT"
+          
+          # Send the prompt to Claude
+          echo "$FULL_PROMPT" | claude --print --allowed-tools "Read Write Edit"
       
       - name: Commit and push changes
         run: |
