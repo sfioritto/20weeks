@@ -1,8 +1,8 @@
 # Week 1 of 20
 
-You've got 1 run and 1 lift done. Calories averaging 1891 (good), but steps averaging 4871 - need 5129 steps per day for the remaining 5 days to hit the 5000 average. Used your rest day Monday, so you'll need a workout each day to avoid doubling up. Sleep's been disrupted both nights by Ada, but you can still train - even one set counts, naps are allowed. Need to log today's calories and steps still.
+You've got 1 run and 1 lift done. Calories averaging 1905 (5 over but acceptable), steps averaging 5446 (solid). Used your rest day Monday, so you'll need a workout each day to avoid doubling up. Sleep's been disrupted by Ada a couple nights, but you're still getting the workouts done. Need 2 more runs and 2 more lifts by Sunday. Nice job on protein and fiber yesterday.
 
-3 days into Week 1
+4 days into Week 1
 
 ## Required Goals
 
@@ -16,33 +16,32 @@ Need 2 more runs by Sunday.
 
 Need 2 more lifting sessions by Sunday.
 
-### Calories: avg 1891
+### Calories: avg 1905
 
-Under by 9 calories. Target: 1900 max
+Over by 5 calories. Target: 1900 max
 
-### Steps: avg 4871
+### Steps: avg 5446
 
-Below by 129 steps. Need 5129 extra steps per day for remaining 5 days to hit 5000 average
+Above by 446 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
 
-**Week status:** Behind - Need 2 runs, 2 lifts, and steps recovery
+**Week status:** Behind - Need 2 runs and 2 lifts
 
 ## Bonus Goals
 
-### Protein: 1/2 days (1/7 for week)
+### Protein: 2/3 days (190g)
 
-Monday: 100g, Tuesday: 188g (close enough)
-Today: Not logged yet
+Monday: 100g, Tuesday: 188g, Wednesday: 188g
 
-### Fiber: 1/2 days (1/7 for week)
+### Fiber: 2/3 days (30g)
 
-Monday: 10g, Tuesday: 27g (close enough)
-Today: Not logged yet
+Monday: 10g, Tuesday: 27g, Wednesday: 31g
 
-### Bedtime: 0/2 nights (0/7 for week)
+### Bedtime: 0/3 nights
 
 Monday: Went to bed at 10:30pm (30 min late), woke at 7:30am (1 hour late)
 Tuesday: Went to bed at 10:30pm (30 min late), woke at 7:30am (1 hour late)
+Wednesday: Not logged yet
 
 ## This Week's Focus
 
-Log today's calories and steps. Schedule the remaining 2 runs and 2 lifts across the next 4 days. Add 130 extra steps daily to recover average.
+Schedule 2 runs and 2 lifts across the next 3 days. Steps and calories are on track. Try getting to bed by 10pm tonight.
