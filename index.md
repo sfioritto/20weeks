@@ -1,6 +1,6 @@
 # Week 1 of 20
 
-You've got 2 runs and 1 lift done. Calories averaging 1905 (5 over but acceptable), steps averaging 5446 (solid). Sleep's been disrupted by Ada but you're nailing the 10pm bedtime - lights out at 10:30pm every night this week as noted. Need 1 more run and 2 more lifts by Sunday.
+You've got 2 runs and 1 lift done - good momentum. Calories averaging 1894 (on target), steps averaging 5760 (solid). You still need 1 more run and 2 more lifts by Sunday. The consistent 10pm bedtime and 10:30pm lights out is working well despite Ada's disruptions. If you're feeling tired from the broken sleep, remember that even one set of each exercise counts as a lift session.
 
 4 days into Week 1
 
@@ -16,13 +16,13 @@ Need 1 more run by Sunday.
 
 Need 2 more lifting sessions by Sunday.
 
-### Calories: avg 1905
+### Calories: avg 1894
 
-Over by 5 calories. Target: 1900 max
+Under by 6 calories. Target: 1900 max
 
-### Steps: avg 5446
+### Steps: avg 5760
 
-Above by 446 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
+Above by 760 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
 
 **Week status:** Behind - Need 1 run and 2 lifts
 
@@ -30,11 +30,11 @@ Above by 446 steps. Target: 5000 each day, but it's the average that matters, lo
 
 ### Protein: 3/4 days (190g)
 
-Monday: 100g, Tuesday: 188g (close enough), Wednesday: 188g (close enough), Thursday: Not logged yet
+Monday: 100g, Tuesday: 188g (close enough), Wednesday: 188g (close enough), Thursday: 190g
 
-### Fiber: 3/4 days (30g)
+### Fiber: 4/4 days (30g)
 
-Monday: 10g, Tuesday: 27g (close enough), Wednesday: 31g, Thursday: Not logged yet
+Monday: 10g, Tuesday: 27g (close enough), Wednesday: 31g, Thursday: 31g
 
 ### Bedtime: 4/4 nights
 
@@ -42,4 +42,4 @@ Consistently hitting bed by 10pm and lights out by 10:30pm. Sleep disrupted by A
 
 ## This Week's Focus
 
-Schedule 1 run and 2 lifts across the next 3 days. Steps and calories are on track. Keep that bedtime consistency going.
+Schedule 1 run and 2 lifts across the next 3 days. Keep the bedtime consistency going and maintain current calorie/step levels.
