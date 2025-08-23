@@ -1,8 +1,8 @@
 # Week 1 of 20
 
-You've hit all 3 runs - that's done for the week. But you only have 1 lift completed and need 2 more by Sunday. That means you'll need to lift both Saturday and Sunday. Calories are averaging 1921 (within acceptable range), steps averaging 5708 (solid). If you're tired from Ada's sleep disruptions, remember that even one set of each exercise counts as a lift session - just get to the gym and do something.
+You've hit all 3 runs and now have 2 lifts done - just need 1 more by Sunday. Calories are averaging 1921 (within range), steps averaging 5648 (solid). Friday's 2033 calories pushed the average up a bit, but you're still within the acceptable range. If you're tired from Ada's sleep disruptions, remember that even one set of each exercise counts as a lift session.
 
-5 days into Week 1
+6 days into Week 1
 
 ## Required Goals
 
@@ -12,36 +12,29 @@ These determine if you pass the week.
 
 Complete.
 
-### Lifts: 1/3
+### Lifts: 2/3
 
-Need 2 more lifting sessions by Sunday.
-
-**Next lifting workout (Day 2 - Squat Focus):**
-- Back Squat: 3 sets × 8 reps
-- Romanian Deadlifts: 3 sets × 12 reps
-- Stationary Lunges (dumbbells): 3 sets × 12 reps per leg
-- Bent-Over Dumbbell Row: 3 sets × 12 reps per arm
-- Wide-Grip Bench Press: 3 sets × 12 reps
+Need 1 more lifting session by Sunday.
 
 ### Calories: avg 1921
 
 Within acceptable range. Target: 1900 max (up to 1950 acceptable)
 
-### Steps: avg 5708
+### Steps: avg 5648
 
-Above by 708 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
+Above by 648 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
 
-**Week status:** Behind - Need 2 lifts
+**Week status:** On track - Need 1 lift
 
 ## Bonus Goals
 
-### Protein: 4/5 days (190g)
+### Protein: 5/6 days (190g)
 
-Monday: 100g, Tuesday: 188g (close enough), Wednesday: 188g (close enough), Thursday: 190g, Friday: 197g
+Monday: 100g, Tuesday: 188g (close enough), Wednesday: 188g (close enough), Thursday: 190g, Friday: 197g, Saturday: Not logged yet
 
-### Fiber: 4/5 days (30g)
+### Fiber: 5/6 days (30g)
 
-Monday: 10g, Tuesday: 27g (close enough), Wednesday: 31g, Thursday: 31g, Friday: 28g (close enough)
+Monday: 10g, Tuesday: 27g (close enough), Wednesday: 31g, Thursday: 31g, Friday: 28g (close enough), Saturday: Not logged yet
 
 ### Bedtime: 3/5 nights
 
@@ -49,4 +42,4 @@ Monday: bed at 10:30pm (30 min late), Tuesday: bed at 10:30pm (30 min late), Wed
 
 ## This Week's Focus
 
-Schedule lifts for both Saturday and Sunday. Keep calories and steps on track. Get to bed by 10pm tonight and through the weekend.
+Complete 1 final lift by Sunday to finish the week. Log today's nutrition and sleep when done.
