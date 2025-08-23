@@ -16,6 +16,13 @@ Complete.
 
 Need 2 more lifting sessions by Sunday.
 
+**Next lifting workout (Day 2 - Squat Focus):**
+- Back Squat: 3 sets × 8 reps
+- Romanian Deadlifts: 3 sets × 12 reps
+- Stationary Lunges (dumbbells): 3 sets × 12 reps per leg
+- Bent-Over Dumbbell Row: 3 sets × 12 reps per arm
+- Wide-Grip Bench Press: 3 sets × 12 reps
+
 ### Calories: avg 1921
 
 Within acceptable range. Target: 1900 max (up to 1950 acceptable)
