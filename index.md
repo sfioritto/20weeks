@@ -1,6 +1,6 @@
 # Week 1 of 20
 
-You've got 3 runs and 1 lift done - runs are complete. Calories averaging 1909 (9 over but acceptable), steps averaging 5708 (solid). You still need 2 more lifts by Sunday. Ada's sick sleep disruptions hit multiple nights but bedtime routine stayed consistent. If you're exhausted from the broken sleep, remember that even one set of each exercise counts as a lift session.
+You've hit all 3 runs - that's done for the week. But you only have 1 lift completed and need 2 more by Sunday. That means you'll need to lift both Saturday and Sunday. Calories are averaging 1921 (within acceptable range), steps averaging 5708 (solid). If you're tired from Ada's sleep disruptions, remember that even one set of each exercise counts as a lift session - just get to the gym and do something.
 
 5 days into Week 1
 
@@ -16,9 +16,9 @@ Complete.
 
 Need 2 more lifting sessions by Sunday.
 
-### Calories: avg 1909
+### Calories: avg 1921
 
-Over by 9 calories. Target: 1900 max
+Within acceptable range. Target: 1900 max (up to 1950 acceptable)
 
 ### Steps: avg 5708
 
@@ -30,16 +30,16 @@ Above by 708 steps. Target: 5000 each day, but it's the average that matters, lo
 
 ### Protein: 4/5 days (190g)
 
-Monday: 100g, Tuesday: 188g (close enough), Wednesday: 188g (close enough), Thursday: 190g, Friday: 189g (close enough)
+Monday: 100g, Tuesday: 188g (close enough), Wednesday: 188g (close enough), Thursday: 190g, Friday: 197g
 
 ### Fiber: 4/5 days (30g)
 
 Monday: 10g, Tuesday: 27g (close enough), Wednesday: 31g, Thursday: 31g, Friday: 28g (close enough)
 
-### Bedtime: 4/5 nights
+### Bedtime: 3/5 nights
 
-Monday-Thursday consistently hitting bed by 10pm and lights out by 10:30pm. Friday went to bed at 11pm due to Ada being sick. Sleep disrupted multiple nights but routine mostly solid.
+Monday: bed at 10:30pm (30 min late), Tuesday: bed at 10:30pm (30 min late), Wednesday: bed at 10pm (on time), Thursday: bed at 11pm (1 hour late), Friday: Not logged yet
 
 ## This Week's Focus
 
-Schedule 2 lifts across the next 2 days. Runs are done, calories and steps are tracking well.
+Schedule lifts for both Saturday and Sunday. Keep calories and steps on track. Get to bed by 10pm tonight and through the weekend.
