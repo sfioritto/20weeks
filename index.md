@@ -1,8 +1,8 @@
 # Week 2 of 20
 
-Starting Week 2 after completing Week 1. Monday's log shows 4374 steps (626 below target), 1865 calories (good), but you didn't log any workouts. That day is done - focus on Week 2 now. You've got your rest day available and need 3 runs and 3 lifts this week. Today's Monday, so get one workout in today to start strong.
+You started Week 2 with Monday's numbers - 4374 steps (626 below target), 1865 calories (good), 174g protein. But no workouts logged. Today's Tuesday, so you need to get one workout done and spread your 3 runs and 3 lifts through the remaining days. You've got your rest day available.
 
-Week 2 in progress (Monday, August 26)
+2 days into Week 2 (Tuesday, August 26)
 
 ## Required Goals
 
@@ -14,32 +14,32 @@ Week 2 target: 15.6 minutes per run.
 
 ### Lifts: 0/3
 
-Starting fresh for Week 2.
+Need to start soon to avoid back-loading.
 
-### Calories: No data yet
+### Calories: avg 1865
 
 Target: 1900 max (up to 1950 acceptable)
 
-### Steps: No data yet
+### Steps: avg 4374
 
-Target: 5000 each day, but it's the average that matters, low one day is nbd.
+626 below target. Need 5315 steps per day for remaining 6 days to hit 5000 average.
 
-**Week status:** Just started - time to build momentum
+**Week status:** Behind on workouts - need to get started
 
 ## Bonus Goals
 
-### Protein: 0/0 days (190g)
+### Protein: 1/1 days (190g)
 
-Week 2: Not logged yet
+Monday: 174g protein
 
-### Fiber: 0/0 days (30g)
+### Fiber: 0/1 days (30g)
 
-Week 2: Not logged yet
+Monday: 18g fiber
 
-### Bedtime: 0/0 nights
+### Bedtime: 0/1 nights
 
-Week 2: Not logged yet
+Monday: Bed 11:30pm, woke 7:30am (missed bedtime goal)
 
 ## This Week's Focus
 
-Get today's workout done and log your food. Aim to spread your 3 runs and 3 lifts throughout the week rather than back-loading like last week.
+Get one workout done today and start logging Tuesday's food. Need extra steps daily to make up Monday's shortfall.
