@@ -1,12 +1,10 @@
 # Week 2 of 20
 
-You started Week 2 with Monday's numbers - 4374 steps (626 below target), 1865 calories (good), 174g protein. But no workouts logged. Today's Tuesday, so you need to get one workout done and spread your 3 runs and 3 lifts through the remaining days. You've got your rest day available.
+You started Week 2 with Monday's numbers - 4374 steps (626 below target), 1865 calories (good), 174g protein. But no workouts logged. Today's Tuesday, so you need to get one workout done and spread your 3 runs and 3 lifts through the remaining days. Rest day is used up so you'll need to get a lift or run in each day if you don't want to be forced to double up.
 
-2 days into Week 2 (Tuesday, August 26)
+## Today's Focus
 
-## Required Goals
-
-These determine if you pass the week.
+Get a lift or run done today. Need extra steps daily to make up Monday's shortfall.
 
 ### Runs: 0/3
 
@@ -40,6 +38,10 @@ Monday: 18g fiber
 
 Monday: Bed 11:30pm, woke 7:30am (missed bedtime goal)
 
-## This Week's Focus
+## Next Lift Day
 
-Get one workout done today and start logging Tuesday's food. Need extra steps daily to make up Monday's shortfall.
+- Deadlift: 3 sets × 8 -12 reps (Last week 1 x 12, 135lbs)
+- Walking Lunges (dumbbells): 3 sets × 12 reps per leg (Last week 1 x 12, 30lbs)
+- Bent-Over Barbell Row: 3 sets × 12 reps (Last week 1 x 12, 45lbs)
+- Dumbbell Row (both arms): 3 sets × 12 reps (Last week 1 x 12, 30lbs)
+- Dumbbell Shoulder Press: 3 sets × 12 reps (Last week 1 x 15, 30lbs)
