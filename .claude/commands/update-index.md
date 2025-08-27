@@ -2,27 +2,64 @@
 description: Update index.md with current week's progress from logs
 ---
 
-Read the current week's log file from @logs/ (named after Monday's date) and regenerate @index.md with:
+First read the @goals.md file to understand my goals for this program.
 
-1. Note today's date from the environment context to understand what day of the week it is
-2. Calculate current week's progress from the log entries (only count COMPLETED days, not including today)
-3. Generate a weekly summary paragraph following the guidelines in @docs/weekly-summary-guidelines.md
+Read the current week's log file from @logs/ (named after Monday's date).
+
+Then you're going to regenerate @index.md with the following steps:
+
+1. Note today's date from the environment context to understand what day of the week it is, assuming you get some kind of UTC time convert it to Central Time.
+2. **CRITICAL: Check for rest day usage FIRST**
+   - A rest day is ANY day where NEITHER a run NOR a lift was logged
+   - Look through each completed day (Monday through yesterday) in the current week's log
+   - If you find a day with no run AND no lift, that's when the rest day was used
+   - Example: If Monday has steps, calories, protein but NO run and NO lift = Monday was the rest day
+3. Calculate current week's progress from the log entries (only count COMPLETED days, not including today)
+4. Generate a weekly summary paragraph following the guidelines in @docs/weekly-summary-guidelines.md
+   - MUST include rest day status: If used, state which day it was used and note they need daily workouts to avoid doubling up
+   - If rest day not yet used, mention they have flexibility
    - Include specific step/calorie recovery needs in the summary when significantly off target
    - For steps: If below 4900 average, include "need X steps per day for remaining days" in the summary
    - For calories: If above 1950 average, include "need X calories per day for remaining days" in the summary
    - Sleep: Only mention if disrupted multiple nights (shows pattern of tiredness). If so, add gentle reminder about "even one set counts, 15-minute run is fine, you can nap"
    - Don't mention single sleep disruptions - they're normal
-4. Update all required goals (runs, lifts, calories, steps) with current counts and WEEKLY AVERAGES
+5. Update all goals
+   - Include current week's run target duration (calculate using Week N = 15 × (1.0372)^(N-1) minutes)
+   - Show runs, lifts, calories, steps with current counts and WEEKLY AVERAGES
    - Steps: 4900-5100 average all count as meeting the goal. Only flag if outside this range
-   - Calories: 1950 or below average is acceptable. Only flag if above 1950
+   - Calories: 1950 or below average is acceptable. Only flag if above 1950 and calculate how many calories per day you need to hit the goal.
    - Don't worry about small daily variations (50 calories, 200 steps) - focus on significant deviations
-5. Update bonus goals (protein, fiber, bedtime)
+6. Update bonus goals (protein, fiber, bedtime)
    - Protein: 185g+ counts as hitting 190g goal (within 5g under is close enough). Note as "188g (close enough)" when applicable
    - Fiber: 26g+ counts as hitting 30g goal (within 4g is close enough). Note as "27g (close enough)" when applicable
    - Show progress as "X/Y days (X/7 for week)" showing both completed days progress and weekly total
    - For today's incomplete entries, note as "Today: Not logged yet" rather than assuming they missed it
-6. Set appropriate week status
-7. Provide focused action items in "This Week's Focus" section
+7. Set appropriate week status
+8. Provide focused action items in "This Week's Focus" section
+9. Add "Next Lift Day" section at the bottom
+
+   - Look at BOTH current week and previous week's logs to find the most recent lifting session
+   - Search from most recent day backwards until you find a day with "Lifting" or individual exercises listed
+   - List the exercises with their sets, reps, and weights exactly as logged
+   - Calculate Week N progression using formula: Baseline × (1.02)^(N-1) for +2% weekly volume
+   - Provide specific progression suggestions:
+     - Add 1 rep to each set, OR
+     - Add 2-5 lbs to the weight, OR
+     - Add an extra set to 1-2 exercises
+   - Include reminder: "Even completing one set of each exercise counts as a lifting session if you're exhausted"
+   - Format as:
+
+     ```
+     ## Next Lift Day
+
+      - Deadlift: 3 sets × 8 -12 reps (Last week 1 x 12, 135lbs)
+      - Walking Lunges (dumbbells): 3 sets × 12 reps per leg (Last week 1 x 12, 30lbs)
+      - Bent-Over Barbell Row: 3 sets × 12 reps (Last week 1 x 12, 45lbs)
+      - Dumbbell Row (both arms): 3 sets × 12 reps (Last week 1 x 12, 30lbs)
+      - Dumbbell Shoulder Press: 3 sets × 12 reps (Last week 1 x 15, 30lbs)
+
+      Remember: Even completing one set of each exercise counts as a lifting session if you're exhausted.
+     ```
 
 Follow the weekly summary guidelines exactly as specified in @docs/weekly-summary-guidelines.md
 

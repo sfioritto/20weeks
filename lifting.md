@@ -7,7 +7,7 @@ _Equipment: Dumbbells (up to 50 lbs each), Barbell, Bench_
 
 **Main Lift**
 
-- Deadlift: 3 sets × 8 reps (goal: 6-8 reps @ 3 RIR)
+- Deadlift: 3 sets × 8-12 reps (goal: 8-12 reps @ 3 RIR)
 
 **Accessory Work**
 
