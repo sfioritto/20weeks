@@ -1,54 +1,57 @@
 # Week 2 of 20
 
-You're three days into Week 2 with solid progress so far. You used your rest day on Monday, which means you'll need either a run or lift every day Thursday through Sunday to avoid doubling up. Current status: 1 run done Tuesday, 1 lift done today (Wednesday). Calories are averaging 1885 (good), steps at 5941 (good). Since you used Monday as your rest day, you need a workout each of the remaining 4 days. Also good job hitting bedtime Tuesday night - keep that consistency going.
+Four days into Week 2 and you're tracking well. Monday was your rest day (no workout logged), which means you need to hit a workout each remaining day to avoid doubling up. Current status: 2 runs done, 1 lift done. Calories averaging 1915 (good), steps at 5919 (solid). You've already knocked out today's run, so you need 1 more run and 2 more lifts by Sunday. Keep this steady pace going.
 
-3 days into Week 2
+4 days into Week 2
 
 ## Required Goals
 
 These determine if you pass the week.
 
-### Runs: 1/3
+### Runs: 2/3
 
-Week 2 target: 15.6 minutes per run. Got one done Tuesday at 15:36. Need 2 more by Sunday.
+Week 2 target: 15.6 minutes per run. Got one done Tuesday and one today (Thursday) at 15:36. Need 1 more by Sunday.
 
 ### Lifts: 1/3
 
-Got one done today. Need 2 more by Sunday.
+Got one done Wednesday. Need 2 more by Sunday.
 
-### Calories: avg 1885
+### Calories: avg 1915
 
-Under by 15 calories. Target: 1900 max
+Under by 35 calories. Target: 1900 max (1950 acceptable)
 
-### Steps: avg 5941
+### Steps: avg 5919
 
-Above by 941 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
+Above by 919 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
 
-**Week status:** On track - but need consistent workouts rest of week
+**Week status:** On track - maintaining good pace
 
 ## Bonus Goals
 
-### Protein: 2/3 days (2/7 for week)
+### Protein: 3/4 days (3/7 for week)
 
 Monday: 174g
 Tuesday: 189g (close enough)
 Wednesday: 187g (close enough)
+Thursday: 190g
 
-### Fiber: 2/3 days (2/7 for week)
+### Fiber: 3/4 days (3/7 for week)
 
 Monday: 18g
 Tuesday: 31.2g
 Wednesday: 29.1g (close enough)
+Thursday: 31.8g
 
-### Bedtime: 1/3 nights
+### Bedtime: 1/4 nights
 
 Monday: Bed 11:30pm, woke 7:30am (missed bedtime goal)
-Tuesday: In bed 10pm, lights out 10:30pm, up at 7:30am (disrupted but met goal)
-Wednesday: Not logged yet
+Tuesday: In bed 10pm, lights out 10:30pm, up at 7:30am (met goal despite disruptions)
+Wednesday: Bed 11:45pm, up at 7:30am (missed bedtime goal)
+Thursday: Not logged yet
 
 ## This Week's Focus
 
-Get a workout done each day Thursday through Sunday. Keep the momentum from your solid calorie and step averages.
+Get your 2 remaining lifts and 1 run done over the next 3 days. Keep calories and steps where they are.
 
 ## Next Lift Day
 
