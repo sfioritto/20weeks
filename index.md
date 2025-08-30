@@ -1,8 +1,8 @@
 # Week 2 of 20
 
-Four days into Week 2 and you're tracking well. Monday was your rest day (no workout logged), which means you need to hit a workout each remaining day to avoid doubling up. Current status: 2 runs done, 1 lift done. Calories averaging 1915 (good), steps at 5919 (solid). You've already knocked out today's run, so you need 1 more run and 2 more lifts by Sunday. Keep this steady pace going.
+You're closing out Week 2 strong - all four required goals are green. Monday was your rest day (no workout logged), which means you've been hitting daily workouts since. Current status: 2 runs done, 2 lifts done, with one of each left for the weekend. Calories averaging 1891 (excellent), steps at 5791 (solid). Sleep's been rough most nights - remember even one set counts for lifting if you're exhausted. Just need 1 run and 1 lift over the next two days to complete the week.
 
-4 days into Week 2
+5 days into Week 2
 
 ## Required Goals
 
@@ -10,60 +10,63 @@ These determine if you pass the week.
 
 ### Runs: 2/3
 
-Week 2 target: 15.6 minutes per run. Got one done Tuesday and one today (Thursday) at 15:36. Need 1 more by Sunday.
+Week 2 target: 15.6 minutes per run. Got one done Tuesday and one Thursday at 15:36. Need 1 more by Sunday.
 
-### Lifts: 1/3
+### Lifts: 2/3
 
-Got one done Wednesday. Need 2 more by Sunday.
+Got one done Wednesday and one Friday. Need 1 more by Sunday.
 
-### Calories: avg 1915
+### Calories: avg 1891
 
-Under by 35 calories. Target: 1900 max (1950 acceptable)
+Under by 9 calories. Target: 1900 max (1950 acceptable)
 
-### Steps: avg 5919
+### Steps: avg 5791
 
-Above by 919 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
+Above by 791 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
 
 **Week status:** On track - maintaining good pace
 
 ## Bonus Goals
 
-### Protein: 3/4 days (3/7 for week)
+### Protein: 5/5 days (5/7 for week)
 
 Monday: 174g
 Tuesday: 189g (close enough)
 Wednesday: 187g (close enough)
 Thursday: 190g
+Friday: 194g
 
-### Fiber: 3/4 days (3/7 for week)
+### Fiber: 3/5 days (3/7 for week)
 
 Monday: 18g
 Tuesday: 31.2g
 Wednesday: 29.1g (close enough)
 Thursday: 31.8g
+Friday: 25.9g
 
-### Bedtime: 1/4 nights
+### Bedtime: 1/5 nights
 
 Monday: Bed 11:30pm, woke 7:30am (missed bedtime goal)
 Tuesday: In bed 10pm, lights out 10:30pm, up at 7:30am (met goal despite disruptions)
 Wednesday: Bed 11:45pm, up at 7:30am (missed bedtime goal)
-Thursday: Not logged yet
+Thursday: Bed 2:15am, up at 9:15am (missed both bedtime and wake goals)
+Friday: Bed 12:00am, up at 7:45am (missed bedtime goal)
 
 ## This Week's Focus
 
-Get your 2 remaining lifts and 1 run done over the next 3 days. Keep calories and steps where they are.
+Get your 1 remaining run and 1 lift done over the weekend. Keep calories and steps where they are.
 
 ## Next Lift Day
 
 **Main Lift**
-- Back Squat: 3 sets × 8 reps (Last week: 1 x 12, 145lbs)
+- Barbell Bench Press: 3 sets × 10 reps (Last week: 3 x 10)
 
 **Accessory Work**
-- Romanian Deadlifts: 3 sets × 12 reps (Last week: 1 x 12, 45lbs - skipped 2 sets)
-- Goblet Squats (dumbbell): 3 sets × 12 reps [optional - skipped last week]
-- Stationary Lunges (dumbbells): 3 sets × 12 reps per leg 
-- Bent-Over Dumbbell Row: 3 sets × 12 reps per arm (Last week: 3 x 15, 15lbs)
-- Barbell Row (underhand grip): 3 sets × 12 reps [optional - skipped last week]
-- Wide-Grip Bench Press: 3 sets × 12 reps (Last week: 3 x 15, 45lbs)
+- Incline Dumbbell Press: 3 sets × 12 reps
+- Close-Grip Bench Press: 3 sets × 12 reps
+- Dumbbell Bench Press: 3 sets × 12 reps
+- Front Squat: 3 sets × 10 reps
+- Reverse Lunges (dumbbells): 3 sets × 12 reps per leg
+- One-Arm Dumbbell Row: 3 sets × 12 reps per arm
 
 Remember: Even completing one set of each exercise counts as a lifting session if you're exhausted.
