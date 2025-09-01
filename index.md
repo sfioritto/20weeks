@@ -1,8 +1,8 @@
 # Week 2 of 20
 
-You've completed all 3 runs for the week and got a big step day today (7680) which helped pull your average up. All four required goals are green now. Monday was your rest day (no workout logged), so you've been hitting consistent workouts since. Current status: 3 runs done, 2 lifts done. Calories averaging 1916 (good), steps at 5879 (solid). Need just 1 more lift by tomorrow to complete the week. Sleep's been rough most nights with Ada disrupting things, but you're getting through the workouts anyway.
+Week 2 complete. You hit all your required goals: 3 runs, 3 lifts, calories at 1934 average, steps at 6150 average. Monday was your rest day this week, so you did a good job spreading workouts across the remaining days. Got some bigger step days on the weekend that helped pull your average up nicely. Sleep's been rough with Ada waking you up multiple nights, but you powered through all the workouts anyway. Week 3 starts tomorrow - rest day is available again.
 
-6 days into Week 2
+Week 2 complete
 
 ## Required Goals
 
@@ -12,23 +12,23 @@ These determine if you pass the week.
 
 Week 2 target: 15.6 minutes per run. All 3 runs completed at 15:36. Complete.
 
-### Lifts: 2/3
+### Lifts: 3/3
 
-Got one done Wednesday and one Friday. Need 1 more by Sunday.
+Complete. Got them done Wednesday, Friday, and Sunday.
 
-### Calories: avg 1916
+### Calories: avg 1934
 
-Over by 16 calories. Target: 1900 max (1950 acceptable)
+Under by 16 calories. Target: 1900 max (1950 acceptable)
 
-### Steps: avg 5879
+### Steps: avg 6150
 
-Above by 879 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
+Above by 1150 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
 
-**Week status:** On track - just need 1 lift tomorrow
+**Week status:** Complete - all required goals met
 
 ## Bonus Goals
 
-### Protein: 6/6 days (6/7 for week)
+### Protein: 6/7 days (6/7 for week)
 
 Monday: 174g
 Tuesday: 189g (close enough)
@@ -36,8 +36,9 @@ Wednesday: 187g (close enough)
 Thursday: 190g
 Friday: 194g
 Saturday: 193g
+Sunday: 184g
 
-### Fiber: 4/6 days (4/7 for week)
+### Fiber: 4/7 days (4/7 for week)
 
 Monday: 18g
 Tuesday: 31.2g
@@ -45,31 +46,36 @@ Wednesday: 29.1g (close enough)
 Thursday: 31.8g
 Friday: 25.9g
 Saturday: 11g
+Sunday: 20.9g
 
-### Bedtime: 1/6 nights
+### Bedtime: 1/7 nights
 
 Monday: Bed 11:30pm, woke 7:30am (missed bedtime goal)
 Tuesday: In bed 10pm, lights out 10:30pm, up at 7:30am (met goal despite disruptions)
 Wednesday: Bed 11:45pm, up at 7:30am (missed bedtime goal)
 Thursday: Bed 2:15am, up at 9:15am (missed both bedtime and wake goals)
 Friday: Bed 12:00am, up at 7:45am (missed bedtime goal)
-Saturday: Not logged yet
+Saturday: Bed 11:45pm, up at 7:45am (missed bedtime goal)
+Sunday: Not logged yet
 
 ## This Week's Focus
 
-Get your 1 remaining lift done tomorrow. Calories and steps are both in good shape.
+Week 3 starts tomorrow. Run target increases to 16.2 minutes. Keep spreading workouts across the week like you did this week.
 
-## Next Lift Day
+## Next Lift Day (Deadlifts)
 
 **Main Lift**
-- Barbell Bench Press: 3 sets × 10 reps (Last week: 3 x 10)
+- Deadlift: 3 sets × 8-10 reps (Last session: 3 x 8, 135lbs)
 
 **Accessory Work**
-- Incline Dumbbell Press: 3 sets × 12 reps
-- Close-Grip Bench Press: 3 sets × 12 reps
-- Dumbbell Bench Press: 3 sets × 12 reps
-- Front Squat: 3 sets × 10 reps
-- Reverse Lunges (dumbbells): 3 sets × 12 reps per leg
-- One-Arm Dumbbell Row: 3 sets × 12 reps per arm
+- Walking Lunges (dumbbells): 3 sets × 12 reps per leg (Last session: 1 x 12, 30lbs)
+- Bent-Over Barbell Row: 3 sets × 12 reps (Last session: 2 x 12, 45lbs)
+- Dumbbell Row (both arms): 3 sets × 12 reps (Last session: 3 x 12, 30lbs)
+- Dumbbell Shoulder Press: 3 sets × 15 reps (Last session: 3 x 15, 30lbs)
+
+Progression suggestions for +2% volume:
+- Deadlift: Aim for 3 x 9 or add 5-10lbs
+- Complete all 3 sets for lunges and rows
+- Consider adding 5lbs to shoulder press or adding a 4th set
 
 Remember: Even completing one set of each exercise counts as a lifting session if you're exhausted.
