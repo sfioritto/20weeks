@@ -1,66 +1,61 @@
-# Week 2 of 20
+# Week 3 of 20
 
-Week 2 complete. You hit all your required goals: 3 runs, 3 lifts, calories at 1934 average, steps at 6150 average. Monday was your rest day this week, so you did a good job spreading workouts across the remaining days. Got some bigger step days on the weekend that helped pull your average up nicely. Sleep's been rough with Ada waking you up multiple nights, but you powered through all the workouts anyway. Week 3 starts tomorrow - rest day is available again.
+You used your rest day on Monday, so you'll need to get either a run or lift each of the remaining 5 days to avoid doubling up. Current status: 0 runs done, 0 lifts done. Your calories are averaging 2092 - that's 192 over target, need to keep it under 1841 calories per day for the remaining 5 days to hit 1950 average. Steps are averaging 4195 - need 5402 steps per day for remaining 5 days to hit 5000 average. Tuesday was particularly low at 1600 steps. You've got work to do this week.
 
-Week 2 complete
+2 days into Week 3
 
 ## Required Goals
 
 These determine if you pass the week.
 
-### Runs: 3/3
+### Runs: 0/3
 
-Week 2 target: 15.6 minutes per run. All 3 runs completed at 15:36. Complete.
+Week 3 target: 16.2 minutes per run. Need all 3 runs by Sunday.
 
-### Lifts: 3/3
+### Lifts: 0/3
 
-Complete. Got them done Wednesday, Friday, and Sunday.
+Need all 3 lifts by Sunday.
 
-### Calories: avg 1934
+### Calories: avg 2092
 
-Under by 16 calories. Target: 1900 max (1950 acceptable)
+Over by 192 calories. Target: 1900 max (1950 acceptable)
 
-### Steps: avg 6150
+### Steps: avg 4195
 
-Above by 1150 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd.
+Below by 805 steps. Target: 5000 each day, but it's the average that matters, low one day is nbd. Need 5402 extra steps per day for remaining 5 days to hit 5000 average
 
-**Week status:** Complete - all required goals met
+**Week status:** Off target - rest day already used, need daily workouts, calories and steps both need correction
 
 ## Bonus Goals
 
-### Protein: 6/7 days (6/7 for week)
+### Protein: 2/2 days (2/7 for week)
 
-Monday: 174g
-Tuesday: 189g (close enough)
-Wednesday: 187g (close enough)
-Thursday: 190g
-Friday: 194g
-Saturday: 193g
-Sunday: 184g
-
-### Fiber: 4/7 days (4/7 for week)
-
-Monday: 18g
-Tuesday: 31.2g
-Wednesday: 29.1g (close enough)
-Thursday: 31.8g
-Friday: 25.9g
-Saturday: 11g
-Sunday: 20.9g
-
-### Bedtime: 1/7 nights
-
-Monday: Bed 11:30pm, woke 7:30am (missed bedtime goal)
-Tuesday: In bed 10pm, lights out 10:30pm, up at 7:30am (met goal despite disruptions)
-Wednesday: Bed 11:45pm, up at 7:30am (missed bedtime goal)
-Thursday: Bed 2:15am, up at 9:15am (missed both bedtime and wake goals)
-Friday: Bed 12:00am, up at 7:45am (missed bedtime goal)
-Saturday: Bed 11:45pm, up at 7:45am (missed bedtime goal)
+Monday: 207g
+Tuesday: 193g
+Wednesday: Not logged yet
+Thursday: Not logged yet
+Friday: Not logged yet
+Saturday: Not logged yet
 Sunday: Not logged yet
+
+### Fiber: 1/2 days (1/7 for week)
+
+Monday: 27g (close enough)
+Tuesday: 22.8g
+Wednesday: Not logged yet
+Thursday: Not logged yet
+Friday: Not logged yet
+Saturday: Not logged yet
+Sunday: Not logged yet
+
+### Bedtime: 0/2 nights
+
+Monday: Bed 1:00am, woke 8:15am (missed bedtime goal)
+Tuesday: Not logged yet
 
 ## This Week's Focus
 
-Week 3 starts tomorrow. Run target increases to 16.2 minutes. Keep spreading workouts across the week like you did this week.
+Get a workout in every remaining day - you've already used your rest day. Focus on getting walks in to boost that step average back up, and keep calories under 1841 to fix the average.
 
 ## Next Lift Day (Deadlifts)
 
