@@ -38,27 +38,20 @@ Then you're going to regenerate @index.md with the following steps:
 8. Provide focused action items in "This Week's Focus" section
 9. Add "Next Lift Day" section at the bottom
 
-   - Look at BOTH current week and previous week's logs to find the most recent lifting session
-   - Search from most recent day backwards until you find a day with "Lifting" or individual exercises listed
-   - List the exercises with their sets, reps, and weights exactly as logged
-   - Calculate Week N progression using formula: Baseline × (1.02)^(N-1) for +2% weekly volume
-   - Provide specific progression suggestions:
-     - Add 1 rep to each set, OR
-     - Add 2-5 lbs to the weight, OR
-     - Add an extra set to 1-2 exercises
-   - Include reminder: "Even completing one set of each exercise counts as a lifting session if you're exhausted"
+   - Determine which lifting day is next in the rotation (Day 1: Lower Focus, Day 2: Upper Focus, Day 3: Full Body)
+   - Look at current and previous week's logs to find the most recent lifting day
+   - Based on the rotation, identify the next day's main lift:
+     - Day 1: "Squat Day" (Back Squat is the main lift)
+     - Day 2: "Bench Day" (Bench Press is the main lift)  
+     - Day 3: "Deadlift Day" (Deadlift is the main lift)
    - Format as:
 
      ```
      ## Next Lift Day
 
-      - Deadlift: 3 sets × 8 -12 reps (Last week 1 x 12, 135lbs)
-      - Walking Lunges (dumbbells): 3 sets × 12 reps per leg (Last week 1 x 12, 30lbs)
-      - Bent-Over Barbell Row: 3 sets × 12 reps (Last week 1 x 12, 45lbs)
-      - Dumbbell Row (both arms): 3 sets × 12 reps (Last week 1 x 12, 30lbs)
-      - Dumbbell Shoulder Press: 3 sets × 12 reps (Last week 1 x 15, 30lbs)
+     **[Squat/Bench/Deadlift] Day** - [View full workout](lifting.html)
 
-      Remember: Even completing one set of each exercise counts as a lifting session if you're exhausted.
+     Remember: Even completing one set of each exercise counts as a lifting session if you're exhausted.
      ```
 
 Follow the weekly summary guidelines exactly as specified in @docs/weekly-summary-guidelines.md
