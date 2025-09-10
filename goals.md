@@ -22,10 +22,10 @@
 
 ### Running Progression (20 weeks)
 
-- **Week 1:** 15:00 minutes
-- **Week 20:** 30:00 minutes
-- **Weekly increase:** ~3.72% compounded
-- **Formula:** Week N = 15 × (1.0372)^(N-1) minutes
+- **Week 1:** 16:30 minutes
+- **Week 20:** 25:00 minutes
+- **Weekly increase:** ~2.21% compounded
+- **Formula:** Week N = 16.5 × (1.0221)^(N-1) minutes
 
 ### Lifting Volume Progression
 

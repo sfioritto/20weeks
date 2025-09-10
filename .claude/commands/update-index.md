@@ -24,7 +24,7 @@ Then you're going to regenerate @index.md with the following steps:
    - Sleep: Only mention if disrupted multiple nights (shows pattern of tiredness). If so, add gentle reminder about "even one set counts, 15-minute run is fine, you can nap"
    - Don't mention single sleep disruptions - they're normal
 5. Update all goals
-   - Include current week's run target duration (calculate using Week N = 15 × (1.0372)^(N-1) minutes)
+   - Include current week's run target duration (calculate using Week N = 16.5 × (1.0221)^(N-1) minutes)
    - Show runs, lifts, calories, steps with current counts and WEEKLY AVERAGES
    - Steps: 4900-5100 average all count as meeting the goal. Only flag if outside this range
    - Calories: 1950 or below average is acceptable. Only flag if above 1950 and calculate how many calories per day you need to hit the goal.
@@ -53,6 +53,16 @@ Then you're going to regenerate @index.md with the following steps:
 
      Remember: Even completing one set of each exercise counts as a lifting session if you're exhausted.
      ```
+
+10. Update lifting.html with current lifting cycle week
+    - The lifting program runs on 4-week cycles (Week 1-4, then repeats)
+    - Determine current lifting week by tracking workout completion:
+      - Look at the log files to count how many complete lifting weeks have been done
+      - A lifting week is complete when all 3 lifting days (Day 1, Day 2, Day 3) are done
+      - When starting a new lifting day after completing all 3 days = advance to next week
+      - After Week 4, cycle back to Week 1
+    - Example: If you just finished Day 3 of Week 2 and log Day 1 again, you're now in Week 3
+    - Update the "Current: Week X of 4-week cycle" in lifting.html based on this tracking
 
 Follow the weekly summary guidelines exactly as specified in @docs/weekly-summary-guidelines.md
 

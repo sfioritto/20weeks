@@ -1,51 +1,51 @@
 # Week 1 of 20
 
-Starting fresh on Week 1. Monday shows solid numbers: calories at 1940 (40 over but still within acceptable range), steps at 7200 (well above target), protein hit 196g. Missed fiber by 1g at 29g and bedtime goal wasn't met - went to bed at 12:00am instead of 10:00pm. No workouts yet but it's early in the week with 6 days remaining for 3 runs and 3 lifts.
+Good start with 1 run and 1 lift done. Monday's 16:30 run exceeded the 15:00 target, and Tuesday's Lower Focus session went well. Rest day is still available for flexibility. Calories are averaging 1958 (58 over target), steps at 7085 (well above target). You have 5 days left for 2 runs and 2 lifts - no doubling up required.
 
-1 day into Week 1
+2 days into Week 1
 
 ## Required Goals
 
 These determine if you pass the week.
 
-### Runs: 0/3
+### Runs: 1/3
 
-Week 1 target: 15.0 minutes per run. Need 3 runs by Sunday.
+Monday: 16:30 (met 16:30 target). Need 2 more runs by Sunday.
 
-### Lifts: 0/3
+### Lifts: 1/3
 
-Need 3 lifts by Sunday.
+Tuesday: Lower Focus completed. Need 2 more lifts by Sunday.
 
-### Calories: avg 1940
+### Calories: avg 1958
 
-Over by 40 calories but within acceptable range. Target: 1900 max (1950 acceptable)
+Over by 58 calories. Target: 1900 max (1950 acceptable)
 
-### Steps: avg 7200
+### Steps: avg 7085
 
-Above by 2200 steps. Target: 5000 each day, well above target
+Above by 2085 steps. Target: 5000 each day, well above target
 
-**Week status:** On track - no workouts yet but 6 days remaining for all requirements
+**Week status:** On track - 1 run and 1 lift done, rest day available
 
 ## Bonus Goals
 
-### Protein: 1/1 days (1/7 for week)
+### Protein: 1/2 days (190g)
 
-Monday: 196g (hit target)
+Monday: 196g, Tuesday: 188g (close enough)
 
-### Fiber: 0/1 days (0/7 for week)
+### Fiber: 0/2 days (30g)
 
-Monday: 29g (missed by 1g)
+Monday: 29g (close), Tuesday: 20g (too low)
 
-### Bedtime: 0/1 nights
+### Bedtime: 0/2 nights
 
-Monday: Bed 12:00am, woke 7:30am (missed bedtime goal)
+Monday: Bed 12:00am, woke 7:30am (missed bedtime goal). Tuesday sleep not logged.
 
 ## This Week's Focus
 
-Get your first workouts scheduled. You have 6 days to complete 3 runs and 3 lifts. Monday's nutrition was solid - keep calories around 1900 and try to hit 30g fiber. Fix the bedtime routine.
+Solid start to the week. Calories are 58 over at 1958 average - aim for lighter days ahead. Steps are excellent. Still need to log Tuesday's sleep and stay consistent with workouts.
 
 ## Next Lift Day
 
-**Squat Day** - [View full workout](lifting.html)
+**Bench Day** - [View full workout](lifting.html)
 
 Remember: Even completing one set of each exercise counts as a lifting session if you're exhausted.
